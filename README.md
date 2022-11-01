@@ -1,2 +1,1 @@
-# Shyo5
-Shyo5 Server
+                                                        -=- Welcome To Shyo5 Server -=-
